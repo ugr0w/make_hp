@@ -39,3 +39,18 @@ li {
 span {
     color: #a11111;
 }
+
+.sheik {
+    font-size: 20px;
+    color: #159cf7c7;
+}
+
+.marth {
+    font-size: 20px;
+    color: #275a12;
+}
+
+.snake {
+    font-size: 20px;
+    color: #000000c7;
+}
