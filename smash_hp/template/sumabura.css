@@ -1,0 +1,60 @@
+.header {
+    background-color: #740909;
+    height: 90;
+}
+
+h1 {
+    color:#0051ff
+}
+
+li {
+    list-style: none;
+}
+
+.page-list-title {
+    
+}
+
+.page-list {
+    float:left;
+}
+
+.list-test li {
+    color:#32a0a8;
+    /*float :left;*/
+}
+
+.acces-googlr {
+    padding-bottom: 270px;
+}
+
+.acces-pixiv {
+    padding-bottom: 270px;
+}
+
+.acces_home {
+    padding-bottom: 270px;
+}
+
+.sentence-kind{
+    font-size: 50px;
+}
+
+span {
+    color: #a11111;
+}
+
+.sheik {
+    font-size: 20px;
+    color: #159cf7c7;
+}
+
+.marth {
+    font-size: 20px;
+    color: #5498e6;
+}
+
+.snake {
+    font-size: 20px;
+    color: #00bd55c7;
+}

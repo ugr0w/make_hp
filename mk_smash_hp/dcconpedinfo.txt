@@ -1,0 +1,3 @@
+#user tmptmp
+#pass hongo12345
+#mail infordio.koizumi@gmail.com
